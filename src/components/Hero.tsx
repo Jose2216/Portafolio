@@ -37,10 +37,10 @@ function Hero() {
             </a>
 
             <a
-              href="/cv.pdf"
-              className="btn-secondary"
+              href="/JPablo_Vega_CV.pdf"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
+              className="btn-secondary"
             >
               Descargar CV
             </a>
